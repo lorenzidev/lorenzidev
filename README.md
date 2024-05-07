@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @lorenzidev
 - 👀 I’m interested in Data Science, Machine Learning and Python.
 - 🌱 I’m currently learning Pandas and Numpy
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me DM on GitHub
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 <!---
 lorenzidev/lorenzidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
